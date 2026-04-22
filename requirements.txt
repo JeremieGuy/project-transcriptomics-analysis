@@ -1,10 +1,7 @@
 pandas
 numpy
-scipy
 matplotlib
-seaborn
 scikit-learn
-anndata
-scanpy
-jupyter
-ipykernel
+scipy
+statsmodels
+seaborn
