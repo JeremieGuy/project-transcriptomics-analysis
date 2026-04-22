@@ -82,6 +82,7 @@ The analysis also highlights the heterogeneity of tumor samples, which is consis
 
 ### Repository Structure
 
+'''text
 project-transcriptomics-analysis/
 │
 ├── data/
@@ -100,6 +101,7 @@ project-transcriptomics-analysis/
 │
 ├── README.md
 └── requirements.txt
+'''
 
 ### How to run
 
