@@ -85,18 +85,18 @@ The analysis also highlights the heterogeneity of tumor samples, which is consis
 project-transcriptomics-analysis/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│ ├── raw/
+│ └── processed/
 │
 ├── notebooks/
-│   ├── 01_data_loading_and_qc.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   ├── 03_differential_expression.ipynb
-│   └── 04_visualization_volcano_heatmap.ipynb
+│ ├── 01_data_loading_and_qc.ipynb
+│ ├── 02_exploratory_analysis.ipynb
+│ ├── 03_differential_expression.ipynb
+│ └── 04_visualization_volcano_heatmap.ipynb
 │
 ├── results/
-│   ├── figures/
-│   └── tables/
+│ ├── figures/
+│ └── tables/
 │
 ├── README.md
 └── requirements.txt
